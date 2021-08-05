@@ -27,7 +27,7 @@ import Topbar from '../topbar/Topbar'
             </div>
             <div className="card" onClick={()=>history.push('/Burger')}>
               <div className="imgbx">
-                <img src="./img/pizza.png"/>
+                <img src="./img/Burger00.png"/>
               </div>
               <div className="content">
                 <h2>Burger</h2>

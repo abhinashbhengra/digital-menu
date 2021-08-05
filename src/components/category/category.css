@@ -12,7 +12,8 @@
   position: relative;
   max-width: 300px;
   height: 220px;
-  background-color: teal;
+  background-color: rgb(233, 233, 233);
+
   margin: 30px 10px;
   padding: 20px 15px;
   display: flex;
@@ -23,7 +24,7 @@
 .Container1 .card .imgbx {
   position: relative;
   width: 260px;
-  height: 140px;
+  height: 0px;
   top: -60px;
   /* left: 20px; */
   z-index: 1;
@@ -31,8 +32,10 @@
 }
 
 .Container1 .card .imgbx img {
+  position: relative;
   max-width: 100%;
   border-radius: 4px;
+  top: -40px;
 }
 
 .Container1 .card .content {
