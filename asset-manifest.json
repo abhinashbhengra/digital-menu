@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/digital-menu/static/css/main.39827a1c.chunk.css",
+    "main.js": "/digital-menu/static/js/main.36b620bc.chunk.js",
+    "main.js.map": "/digital-menu/static/js/main.36b620bc.chunk.js.map",
+    "runtime-main.js": "/digital-menu/static/js/runtime-main.4069a0c6.js",
+    "runtime-main.js.map": "/digital-menu/static/js/runtime-main.4069a0c6.js.map",
+    "static/css/2.d10fdd74.chunk.css": "/digital-menu/static/css/2.d10fdd74.chunk.css",
+    "static/js/2.a248d210.chunk.js": "/digital-menu/static/js/2.a248d210.chunk.js",
+    "static/js/2.a248d210.chunk.js.map": "/digital-menu/static/js/2.a248d210.chunk.js.map",
+    "index.html": "/digital-menu/index.html",
+    "static/css/2.d10fdd74.chunk.css.map": "/digital-menu/static/css/2.d10fdd74.chunk.css.map",
+    "static/css/main.39827a1c.chunk.css.map": "/digital-menu/static/css/main.39827a1c.chunk.css.map",
+    "static/js/2.a248d210.chunk.js.LICENSE.txt": "/digital-menu/static/js/2.a248d210.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4069a0c6.js",
+    "static/css/2.d10fdd74.chunk.css",
+    "static/js/2.a248d210.chunk.js",
+    "static/css/main.39827a1c.chunk.css",
+    "static/js/main.36b620bc.chunk.js"
+  ]
+}
