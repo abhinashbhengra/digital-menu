@@ -11,7 +11,7 @@ const HotBeverages = () => {
                 </div>
                 <div className="list">
                     <div className="item">Tea</div>
-                     <div className="item">Rs.30</div>
+                     <div className="item">Rs.40</div>
                 </div>
                 <div className="list">
                     <div className="item">Cappucino</div>
