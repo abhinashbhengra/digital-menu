@@ -14,12 +14,12 @@ import Topbar from '../topbar/Topbar'
     return (
 
       <div>
-        <Topbar/>
+        {/* <Topbar/> */}
         
           <div className="Container1">
             <div className="card" onClick={()=>history.push('/Pizza')}>
               <div className="imgbx">
-                <img src="./img/pizza.png"/>
+                <img width="180px" src="./img/pizza1.png"/>
               </div>
               <div className="content">
                 <h2>Pizza</h2>
@@ -27,7 +27,7 @@ import Topbar from '../topbar/Topbar'
             </div>
             <div className="card" onClick={()=>history.push('/Burger')}>
               <div className="imgbx">
-                <img src="./img/Burger00.png"/>
+                <img width='150px' src="./img/Burger00.png"/>
               </div>
               <div className="content">
                 <h2>Burger</h2>
@@ -35,7 +35,7 @@ import Topbar from '../topbar/Topbar'
             </div>
             <div className="card" onClick={()=>history.push('/Sandwich')}>
               <div className="imgbx">
-                <img src="./img/pizza.png"/>
+                <img width='200px' src="./img/sandwich.png"/>
               </div>
               <div className="content">
                 <h2>Sandwich</h2>
@@ -43,7 +43,7 @@ import Topbar from '../topbar/Topbar'
             </div>
             <div className="card" onClick={()=>history.push('/Mojito')}>
               <div className="imgbx">
-                <img src="./img/pizza.png"/>
+                <img width ='220px' height='130px' src="./img/mojito.png"/>
               </div>
               <div className="content">
                 <h2>Mojito</h2>
@@ -51,7 +51,7 @@ import Topbar from '../topbar/Topbar'
             </div>
             <div className="card" onClick={()=>history.push('/Coldcoffee')}>
               <div className="imgbx">
-                <img src="./img/pizza.png"/>
+                <img width='250px' src="./img/coldcoffee.png"/>
               </div>
               <div className="content">
                 <h2>Cold Coffee</h2>
@@ -59,7 +59,7 @@ import Topbar from '../topbar/Topbar'
             </div>
             <div className="card" onClick={()=>history.push('/Shakes')}>
               <div className="imgbx">
-                <img src="./img/pizza.png"/>
+                <img width="100px" src="./img/shakes.png"/>
               </div>
               <div className="content">
                 <h2>Shakes</h2>
@@ -67,7 +67,7 @@ import Topbar from '../topbar/Topbar'
             </div>
             <div className="card" onClick={()=>history.push('/HotBeverages')}>
               <div className="imgbx">
-                <img src="./img/pizza.png"/>
+                <img width="150px" src="./img/hot.png"/>
               </div>
               <div className="content">
                 <h2>Hot Beverages</h2>

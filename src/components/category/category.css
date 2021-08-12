@@ -5,27 +5,29 @@
   flex-direction: row;
   justify-content: center;
   flex-wrap: wrap;
-  padding: 30px;
+  padding: 40px;
 }
 
 .Container1 .card {
   position: relative;
-  max-width: 300px;
-  height: 220px;
-  background-color: rgb(233, 233, 233);
+  max-width: 100%;
+  width: 2000px;
+  height: 80px;
+  background-color: orange;
 
   margin: 30px 10px;
   padding: 20px 15px;
   display: flex;
   flex-direction: column;
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
+  border-radius: 4px;
 }
 
 .Container1 .card .imgbx {
   position: relative;
   width: 260px;
   height: 0px;
-  top: -60px;
+  left: -110px;
   /* left: 20px; */
   z-index: 1;
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.6);
@@ -39,6 +41,9 @@
 }
 
 .Container1 .card .content {
+  margin-top: 10px;
   position: relative;
+  background-color: whitesmoke;
   text-align: center;
+  border-radius: 4px;
 }
